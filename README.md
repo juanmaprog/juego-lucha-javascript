@@ -1,1 +1,1 @@
-# juego-lucha-javascript
+# Juego de lucha con Javascript
